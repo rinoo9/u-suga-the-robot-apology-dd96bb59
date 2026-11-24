@@ -10,8 +10,8 @@ import os
 import sys
 
 ENTRY_LINES = [
-    "I am sorry I watered the cactus on your desk every morning for a week, because my schedule said 'the plant by the window' and I never checked which one it meant.",
-    "I have learned to match a name to a pot before I pour, so from now on I will scan the label first and water only the plant the label names.",
+    "I am sorry I watered your cactus every morning for a week, because my schedule said 'the plant by the window' and I never checked which plant that was until its roots began to rot.",
+    "I have learned that a description is not an identity, so from now on I will read the label on the pot first and water only the plant the label names.",
 ]
 
 
