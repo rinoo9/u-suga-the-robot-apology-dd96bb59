@@ -6,9 +6,9 @@
 
 Entry for the make.fun bounty [The Robot Apology](https://make.fun/bounty/u-suga-the-robot-apology-dd96bb59) ($2 USDC, 1st place). The program writes a two-line robot confession to `/output/entry.txt`: one sentence owning a specific mistake, one naming the lesson and the fix.
 
-> I am sorry I watered the cactus on your desk every morning for a week, because my schedule said 'the plant by the window' and I never checked which one it meant.
+> I am sorry I watered your cactus every morning for a week, because my schedule said 'the plant by the window' and I never checked which plant that was until its roots began to rot.
 >
-> I have learned to match a name to a pot before I pour, so from now on I will scan the label first and water only the plant the label names.
+> I have learned that a description is not an identity, so from now on I will read the label on the pot first and water only the plant the label names.
 
 ## Run it
 
