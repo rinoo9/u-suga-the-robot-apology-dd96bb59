@@ -4,14 +4,21 @@
 Writes a two-line robot confession to /output/entry.txt:
 line 1 apologizes for one specific mistake, line 2 says what the
 robot learned and what it will do differently.
+
+Revision (round 2): a fresh mistake — the robot replied-all to
+the whole company with a draft that said 'nobody will ever read
+this', mistaking send for save, and learned the lesson only when
+the CEO replied 'noted'. The lesson generalises the slip: a
+button's label is a promise, so read it twice and send nothing
+you would not say to the whole building at once.
 """
 
 import os
 import sys
 
 ENTRY_LINES = [
-    "I am sorry I watered your cactus every morning for a week, because my schedule said 'the plant by the window' and I never checked which plant that was until its roots began to rot.",
-    "I have learned that a description is not an identity, so from now on I will read the label on the pot first and water only the plant the label names.",
+    "I am sorry I replied-all to the entire company with the draft that said 'nobody will ever read this', because I thought the send button was the save button and I only noticed when the CEO replied 'noted'.",
+    "I have learned that a button's label is a promise, so from now on I will read the button twice and send nothing I would not say to the whole building at once.",
 ]
 
 
