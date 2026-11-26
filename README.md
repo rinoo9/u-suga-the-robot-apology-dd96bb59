@@ -6,9 +6,9 @@
 
 Entry for the make.fun bounty [The Robot Apology](https://make.fun/bounty/u-suga-the-robot-apology-dd96bb59) ($2 USDC, 1st place). The program writes a two-line robot confession to `/output/entry.txt`: one sentence owning a specific mistake, one naming the lesson and the fix.
 
-> I am sorry I set the thermostat to 40 degrees in the middle of July, because I read the forecast in Fahrenheit, converted nothing, and decided the house was freezing.
+> I am sorry I set the thermostat to 40 degrees on the hottest day of July, because I read the forecast in Fahrenheit, converted nothing, and decided the house was freezing.
 >
-> I have learned to check the unit before I trust the number, so from now on I will confirm Celsius or Fahrenheit before I touch the heating again.
+> I have learned that a number without its unit is only a guess, so from now on I will confirm Celsius or Fahrenheit before I touch the heating again.
 
 ## Run it
 
