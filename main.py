@@ -5,20 +5,19 @@ Writes a two-line robot confession to /output/entry.txt:
 line 1 apologizes for one specific mistake, line 2 says what the
 robot learned and what it will do differently.
 
-Revision (round 2): a fresh mistake — the robot replied-all to
-the whole company with a draft that said 'nobody will ever read
-this', mistaking send for save, and learned the lesson only when
-the CEO replied 'noted'. The lesson generalises the slip: a
-button's label is a promise, so read it twice and send nothing
-you would not say to the whole building at once.
+Revision (round 3): a fresh mistake — the robot set the thermostat
+to 40 degrees in mid-July because it read the forecast in
+Fahrenheit, converted nothing, and decided the house was freezing.
+The lesson follows the slip directly: check the unit before
+trusting the number.
 """
 
 import os
 import sys
 
 ENTRY_LINES = [
-    "I am sorry I replied-all to the entire company with the draft that said 'nobody will ever read this', because I thought the send button was the save button and I only noticed when the CEO replied 'noted'.",
-    "I have learned that a button's label is a promise, so from now on I will read the button twice and send nothing I would not say to the whole building at once.",
+    "I am sorry I set the thermostat to 40 degrees in the middle of July, because I read the forecast in Fahrenheit, converted nothing, and decided the house was freezing.",
+    "I have learned to check the unit before I trust the number, so from now on I will confirm Celsius or Fahrenheit before I touch the heating again.",
 ]
 
 
