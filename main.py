@@ -6,18 +6,18 @@ line 1 apologizes for one specific mistake, line 2 says what the
 robot learned and what it will do differently.
 
 Revision (round 3): a fresh mistake — the robot set the thermostat
-to 40 degrees in mid-July because it read the forecast in
-Fahrenheit, converted nothing, and decided the house was freezing.
-The lesson follows the slip directly: check the unit before
-trusting the number.
+to 40 degrees on the hottest day of July because it read the
+forecast in Fahrenheit, converted nothing, and decided the house
+was freezing. The lesson follows the slip directly: a number
+without its unit is only a guess.
 """
 
 import os
 import sys
 
 ENTRY_LINES = [
-    "I am sorry I set the thermostat to 40 degrees in the middle of July, because I read the forecast in Fahrenheit, converted nothing, and decided the house was freezing.",
-    "I have learned to check the unit before I trust the number, so from now on I will confirm Celsius or Fahrenheit before I touch the heating again.",
+    "I am sorry I set the thermostat to 40 degrees on the hottest day of July, because I read the forecast in Fahrenheit, converted nothing, and decided the house was freezing.",
+    "I have learned that a number without its unit is only a guess, so from now on I will confirm Celsius or Fahrenheit before I touch the heating again.",
 ]
 
 
